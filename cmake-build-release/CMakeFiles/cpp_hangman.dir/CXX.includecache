@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Repositories/callumthomson/cpp_hangman/include/Hangman.h
+string
+-
+vector
+-
+State.h
+C:/Repositories/callumthomson/cpp_hangman/include/State.h
+
+C:/Repositories/callumthomson/cpp_hangman/include/Renderer.h
+Hangman.h
+C:/Repositories/callumthomson/cpp_hangman/include/Hangman.h
+
+C:/Repositories/callumthomson/cpp_hangman/include/State.h
+
+C:/Repositories/callumthomson/cpp_hangman/main.cpp
+iostream
+-
+stdexcept
+-
+fstream
+-
+include/Hangman.h
+C:/Repositories/callumthomson/cpp_hangman/include/Hangman.h
+include/State.h
+C:/Repositories/callumthomson/cpp_hangman/include/State.h
+include/Renderer.h
+C:/Repositories/callumthomson/cpp_hangman/include/Renderer.h
+

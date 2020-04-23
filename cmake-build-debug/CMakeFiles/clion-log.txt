@@ -1,0 +1,4 @@
+C:\Users\Callum\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Repositories\callumthomson\cpp_hangman
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Repositories/callumthomson/cpp_hangman/cmake-build-debug
